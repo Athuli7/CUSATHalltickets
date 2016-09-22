@@ -1,6 +1,9 @@
 # CUSATHalltickets
+
 Free for all !
+
 Things to note :-
+
 1. *Don't* contact me directly if there is an issue ! Raise it in issues. 
 2. *Don't* contact me directly if there is an issue ! Raise it in issues. 
 3. It's not my fault if your hall ticket isn't here. It may not even be my scripts fault. It could be because of that stupid server.
